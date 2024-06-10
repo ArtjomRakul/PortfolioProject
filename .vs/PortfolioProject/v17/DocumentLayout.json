@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vapro\\source\\repos\\PortfolioProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11188DF6-4181-40DD-A095-A4AA08E62450}|PortfolioProject\\PortfolioProject.csproj|c:\\users\\vapro\\source\\repos\\portfolioproject\\portfolioproject\\views\\forms\\form.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{11188DF6-4181-40DD-A095-A4AA08E62450}|PortfolioProject\\PortfolioProject.csproj|solutionrelative:portfolioproject\\views\\forms\\form.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form.cshtml",
+              "DocumentMoniker": "C:\\Users\\vapro\\source\\repos\\PortfolioProject\\PortfolioProject\\Views\\Forms\\Form.cshtml",
+              "RelativeDocumentMoniker": "PortfolioProject\\Views\\Forms\\Form.cshtml",
+              "ToolTip": "C:\\Users\\vapro\\source\\repos\\PortfolioProject\\PortfolioProject\\Views\\Forms\\Form.cshtml",
+              "RelativeToolTip": "PortfolioProject\\Views\\Forms\\Form.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T11:04:58.087Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
